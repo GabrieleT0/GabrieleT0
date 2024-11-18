@@ -2,7 +2,7 @@
 
 🎓 I hold a Master’s degree in Computer Science with a specialization in Cloud Computing. My passion for technology drives me to continually explore and learn new languages and frameworks. I'm always eager to experiment with new technologies and discover how they can be applied in innovative ways.
 
-🔍 Currently, I’m focused on research in the fields of Knowledge Graphs and the Semantic Web. These areas represent a perfect blend of innovation and academic rigor for me, allowing me to explore new ways of representing and managing knowledge through modern technologies. 
+🔍 Currently, I’m pursuing a PhD in Computer Science and Information Technology, focusing on research in the fields of Knowledge Graphs and the Semantic Web. These areas represent a perfect blend of innovation and academic rigor for me, allowing me to explore new ways of representing and managing knowledge through modern technologies.
 
 💡 I enjoy tackling complex challenges and finding solutions that can have a real-world impact, whether through academic projects or professional endeavors. 
 
