@@ -34,8 +34,9 @@
 ### **Version Control & CI/CD**  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieleT0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
-![](https://github-readme-stats.vercel.app/api?username=GabrieleT0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=GabrieleT0&theme=dark&hide_border=false)<br/>
+![GabrieleT0's Stats](https://github-readme-stats.vercel.app/api?username=GabrieleT0&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
+![GabrieleT0's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GabrieleT0&theme=blueberry&hide_border=true)
+<br>
+![GabrieleT0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieleT0&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
